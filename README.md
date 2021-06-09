@@ -1,2 +1,2 @@
-# BASH BASICS
-This is my first try at scripting.
+# DEV OPS REPO
+This is my journey of becoming a dev-ops major.
