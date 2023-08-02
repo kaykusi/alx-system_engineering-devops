@@ -1,0 +1,7 @@
+#!/bin/bash
+# current directory
+ls -la
+# root directory
+ls -la ..
+# boot directory
+ls -la /boot
