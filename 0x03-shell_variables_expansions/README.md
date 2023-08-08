@@ -1,0 +1,1 @@
+Bash scripting expansions inseption
