@@ -1,2 +1,2 @@
 #!/bin/bash
-count=$(tree -d -L 1 | tail -n 1 | awk '{print $1}')
+count=$(find . -type d | wc -l)
